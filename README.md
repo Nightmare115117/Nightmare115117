@@ -135,13 +135,13 @@ Currently exploring how all these pieces fit together.
 
 ## `04 // GITHUB_ACTIVITY`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2A6D&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nightmare115117&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2A6D&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightmare115117&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF2A6D&currStreakLabel=00F0FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nightmare115117&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF2A6D&currStreakLabel=00F0FF"/>
 
 </div>
 
@@ -151,7 +151,7 @@ Currently exploring how all these pieces fit together.
 
 ## `05 // CONTRIBUTION_MATRIX`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0D1117&color=00F0FF&line=FF2A6D&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nightmare115117&bg_color=0D1117&color=00F0FF&line=FF2A6D&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
