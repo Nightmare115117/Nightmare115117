@@ -170,25 +170,25 @@ Me gusta entender **qué pasa debajo de la abstracción**: un request HTTP, una 
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
-│  federico@nightmare ~                                       │
+│  federico@nightmare ~                                        │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │  $ neofetch                                                  │
 │                                                              │
-│  OS          Arch Linux                                      │
-│  WM          GNOME / Wayland                                 │
-│  SHELL       fish                                             │
+│  OS          CachyOS                                         │
+│  WM          Niri / Wayland                                  │
+│  SHELL       fish                                            │
 │  PRIMARY     C++ / Java                                      │
 │  BACKEND     Crow / Spring Boot                              │
-│  FRONTEND    React / Tailwind                                 │
-│  DATABASE    PostgreSQL (libpqxx) / SQL Server                │
-│  INFRA       Docker / GitHub Actions / k3s                    │
+│  FRONTEND    React / Tailwind                                │
+│  DATABASE    PostgreSQL (libpqxx) / SQL Server               │
+│  INFRA       Docker / GitHub Actions / k3s                   │
 │                                                              │
-│  $ systemctl status developer                               │
+│  $ systemctl status developer                                │
 │                                                              │
 │  ● developer.service                                         │
-│       Loaded: loaded                                        │
-│       Active: active (running)                              │
+│       Loaded: loaded                                         │
+│       Active: active (running)                               │
 │                                                              │
 │  $ echo $SYSTEM_STATUS                                       │
 │                                                              │
