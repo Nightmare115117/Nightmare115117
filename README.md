@@ -26,13 +26,13 @@
 ║  NAME       :: Federico Pérez                            ║
 ║  ROLE       :: Systems Engineering Student               ║
 ║  FOCUS      :: Backend / Systems / Infra                 ║
-║  OS         :: Arch Linux (GNOME / Wayland)               ║
+║  OS         :: CachyOS (Niri / Wayland)                  ║
 ║                                                          ║
 ║  PRIMARY    :: C++ / Java                                ║
 ║  BACKEND    :: Crow / Spring Boot                        ║
-║  FRONTEND   :: React / Tailwind                           ║
-║  DATABASE   :: PostgreSQL (libpqxx) / SQL Server           ║
-║  INFRA      :: Docker / GitHub Actions / k3s               ║
+║  FRONTEND   :: React / Tailwind                          ║
+║  DATABASE   :: PostgreSQL (libpqxx) / SQL Server         ║
+║  INFRA      :: Docker / GitHub Actions / k3s             ║
 ║                                                          ║
 ║  STATUS     :: ● ONLINE                                  ║
 ║                                                          ║
