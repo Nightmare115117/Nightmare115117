@@ -138,7 +138,7 @@ Me gusta entender **qué pasa debajo de la abstracción**: un request HTTP, una 
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nightmare115117&hide_border=true&background=0D1117&ring=00F0FF&fire=FF2A6D&currStreakLabel=00FF9C&sideLabels=B026FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="75%"/>
+<img src="https://streak-stats.demolab.com/?user=Nightmare115117&hide_border=true&background=0D1117&ring=00F0FF&fire=FF2A6D&currStreakLabel=00FF9C&sideLabels=B026FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="75%"/>
 
 </div>
 
@@ -158,7 +158,7 @@ Me gusta entender **qué pasa debajo de la abstracción**: un request HTTP, una 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Nightmare115117/Nightmare115117/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -215,11 +215,11 @@ Me gusta entender **qué pasa debajo de la abstracción**: un request HTTP, una 
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00F0FF"/>
 </a>
 
-<a href="https://github.com/Nightmare115117">
+<a href="https://github.com/Nightmare115117?tab=repositories&q=&type=&language=c%2B%2B">
 <img src="https://img.shields.io/badge/C%2B%2B-00F0FF?style=for-the-badge&logo=c%2B%2B&logoColor=000000"/>
 </a>
 
-<a href="https://github.com/Nightmare115117">
+<a href="https://github.com/Nightmare115117?tab=repositories&q=&type=&language=dockerfile">
 <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"/>
 </a>
 
