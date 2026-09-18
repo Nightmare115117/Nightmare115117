@@ -132,13 +132,13 @@ Me gusta entender **qué pasa debajo de la abstracción**: un request HTTP, una 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nightmare115117&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2A6D&text_color=FFFFFF&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats-red-kappa-84.vercel.app/api?username=Nightmare115117&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2A6D&text_color=FFFFFF&rank_icon=github" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightmare115117&layout=compact&hide_border=true&bg_color=0D1117&title_color=B026FF&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-stats-red-kappa-84.vercel.app/api/top-langs/?username=Nightmare115117&layout=compact&hide_border=true&bg_color=0D1117&title_color=B026FF&text_color=FFFFFF" width="48%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=Nightmare115117&hide_border=true&background=0D1117&ring=00F0FF&fire=FF2A6D&currStreakLabel=00FF9C&sideLabels=B026FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="75%"/>
+<img src="https://github-readme-streak-stats-azure-beta.vercel.app/demo/preview.php?user=Nightmare115117&hide_border=true&background=0D1117&ring=00F0FF&fire=FF2A6D&currStreakLabel=00FF9C&sideLabels=B026FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="75%"/>
 
 </div>
 
