@@ -132,9 +132,9 @@ Me gusta entender **qué pasa debajo de la abstracción**: un request HTTP, una 
 
 <div align="center">
 
-<img src="https://github-readme-stats-red-kappa-84.vercel.app/api?username=Nightmare115117&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2A6D&text_color=FFFFFF&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats-ten-jade-53.vercel.app/api?username=Nightmare115117&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2A6D&text_color=FFFFFF&rank_icon=github" width="48%"/>
 
-<img src="https://github-readme-stats-red-kappa-84.vercel.app/api/top-langs/?username=Nightmare115117&layout=compact&hide_border=true&bg_color=0D1117&title_color=B026FF&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-stats-ten-jade-53.vercel.app/api/top-langs/?username=Nightmare115117&layout=compact&hide_border=true&bg_color=0D1117&title_color=B026FF&text_color=FFFFFF" width="48%"/>
 
 <br><br>
 
