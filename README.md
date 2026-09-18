@@ -148,7 +148,7 @@ Me gusta entender **qué pasa debajo de la abstracción**: un request HTTP, una 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nightmare115117&bg_color=0D1117&color=00F0FF&line=FF2A6D&point=00FF9C&area=true&hide_border=true&custom_title=NIGHTMARE115117%20%2F%2F%20ACTIVITY%20MATRIX"/>
+<img src="https://github-readme-activity-graph-tawny-zeta.vercel.app/graph?username=Nightmare115117&bg_color=0D1117&color=00F0FF&line=FF2A6D&point=00FF9C&area=true&hide_border=true&custom_title=NIGHTMARE115117%20%2F%2F%20ACTIVITY%20MATRIX"/>
 
 </div>
 
