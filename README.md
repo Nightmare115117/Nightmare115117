@@ -138,7 +138,7 @@ Me gusta entender **qué pasa debajo de la abstracción**: un request HTTP, una 
 
 <br><br>
 
-<img src="https://github-readme-streak-stats-azure-beta.vercel.app/demo/preview.php?user=Nightmare115117&hide_border=true&background=0D1117&ring=00F0FF&fire=FF2A6D&currStreakLabel=00FF9C&sideLabels=B026FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="75%"/>
+[![GitHub Streak](https://github-readme-streak-stats-azure-beta.vercel.app?user=Nightmare115117&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&ring=EB5454&background=15%2C0E42EB%2C1CEB74)](https://git.io/streak-stats)
 
 </div>
 
