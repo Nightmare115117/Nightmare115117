@@ -83,7 +83,7 @@ Me gusta entender **qué pasa debajo de la abstracción**: un request HTTP, una 
 
 <img src="https://img.shields.io/badge/Crow-FF2A6D?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=Axum%2B%2B&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF" />   
 <img src="https://img.shields.io/badge/libpqxx-336791?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/REST_API-00F0FF?style=for-the-badge&logo=fastapi&logoColor=000000"/>
 
