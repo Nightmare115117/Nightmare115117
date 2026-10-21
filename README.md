@@ -28,10 +28,10 @@
 ║  FOCUS      :: Backend / Systems / Infra                 ║
 ║  OS         :: CachyOS (Niri / Wayland)                  ║
 ║                                                          ║
-║  PRIMARY    :: C++ / Java                                ║
-║  BACKEND    :: Crow / Spring Boot                        ║
+║  PRIMARY    :: C++ / Java / Rust                         ║
+║  BACKEND    :: Crow / Spring Boot / Axum                 ║
 ║  FRONTEND   :: React / Tailwind                          ║
-║  DATABASE   :: PostgreSQL (libpqxx) / SQL Server         ║
+║  DATABASE   :: PostgreSQL / SQL Server / mariadb         ║
 ║  INFRA      :: Docker / GitHub Actions / k3s             ║
 ║                                                          ║
 ║  STATUS     :: ● ONLINE                                  ║
